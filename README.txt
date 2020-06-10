@@ -13,7 +13,7 @@ gem  install capybara
 gem  install cucumber
 gem  install rspec
 gem  install pry
-5.Acessar o repositório (URL:
+5.Acessar o repositório (URL: https://github.com/EOliveira/automation-vivo.git)
 6.Baixar o arquivo e descompactar no diretório
 7.Acessar o projeto via console
 8.Rodar o bundle install
